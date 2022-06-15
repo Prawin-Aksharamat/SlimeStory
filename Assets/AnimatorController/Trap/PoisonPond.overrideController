@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PoisonPond
+  m_Controller: {fileID: 9100000, guid: 61fdcdb5d3ba2e84f9f330f842587ca7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 81ffedf5be335ba4488d772c7b6b2c3a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ce1831bf5e4e86b46a56e4a14c2cde76, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3549823d39343194d8def776af32f22f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ce1831bf5e4e86b46a56e4a14c2cde76, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f20eb1792e8048a46bf5c7c520a3ea3b, type: 3}
+  m_Name: SrRockBearCore
+  m_EditorClassIdentifier: 
+  itemID: 63697533-7e9e-4805-82aa-ed61163cf5a3
+  displayName: Rock Bear Core Lv3
+  description: 'Increase your max health by 50%
+
+    Increase your damage by 5'
+  icon: {fileID: 21300000, guid: 5653f00c672733f4297b67d71e101417, type: 3}
+  pickup: {fileID: 6494234044896430859, guid: a9c8f9ce2866fe74796b2f9db0302aa5, type: 3}
+  stackable: 0
+  EquipmentModifier:
+  - stat: 3
+    AdditiveModifier: 5
+    PercentangeModifier: 0
+  - stat: 0
+    AdditiveModifier: 0
+    PercentangeModifier: 50
+  allowedEquipLocation: 8

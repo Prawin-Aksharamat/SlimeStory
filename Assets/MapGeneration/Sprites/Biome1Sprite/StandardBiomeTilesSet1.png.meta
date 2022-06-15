@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 4d3ffdc96ffbd8f418717ed4dab88a86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2403605379389062999
+    second: StandardBiomeTilesSet1_0
+  - first:
+      213: 3745410565115528464
+    second: StandardBiomeTilesSet1_1
+  - first:
+      213: 1716556752096073166
+    second: StandardBiomeTilesSet1_2
+  - first:
+      213: -2465472687862446416
+    second: StandardBiomeTilesSet1_3
+  - first:
+      213: 8180539678804347097
+    second: StandardBiomeTilesSet1_4
+  - first:
+      213: 8767504308227458050
+    second: StandardBiomeTilesSet1_5
+  - first:
+      213: 3916000392900752637
+    second: StandardBiomeTilesSet1_6
+  - first:
+      213: -9129647989054214751
+    second: StandardBiomeTilesSet1_7
+  - first:
+      213: 5984919922529466150
+    second: StandardBiomeTilesSet1_8
+  - first:
+      213: 5940506019926704215
+    second: StandardBiomeTilesSet1_9
+  - first:
+      213: -4198301420738451113
+    second: StandardBiomeTilesSet1_10
+  - first:
+      213: 3034480314770963417
+    second: StandardBiomeTilesSet1_11
+  - first:
+      213: -4190861632631596818
+    second: StandardBiomeTilesSet1_12
+  - first:
+      213: -6866395023504735435
+    second: StandardBiomeTilesSet1_13
+  - first:
+      213: 5814054809448533483
+    second: StandardBiomeTilesSet1_14
+  - first:
+      213: -613247177805638680
+    second: StandardBiomeTilesSet1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a00c4d64ada4aed0800000000000000
+      internalID: -2403605379389062999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015c4bf901f5af330800000000000000
+      internalID: 3745410565115528464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 352
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec51c75754f62d710800000000000000
+      internalID: 1716556752096073166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 352
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6088c27a1e8cdd0800000000000000
+      internalID: -2465472687862446416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_4
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 352
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d80f1ade7d178170800000000000000
+      internalID: 8180539678804347097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_5
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 352
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204ca9257be6ca970800000000000000
+      internalID: 8767504308227458050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_6
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 352
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4b3270c9d685630800000000000000
+      internalID: 3916000392900752637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_7
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 352
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad60106689fc4180800000000000000
+      internalID: -9129647989054214751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627f687c5f4be0350800000000000000
+      internalID: 5984919922529466150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7500dcf30cae07250800000000000000
+      internalID: 5940506019926704215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 48
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759edd4f913acb5c0800000000000000
+      internalID: -4198301420738451113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 48
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbb6d7d4c3ac1a20800000000000000
+      internalID: 3034480314770963417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_12
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 48
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee81e2c9c8117d5c0800000000000000
+      internalID: -4190861632631596818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_13
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 48
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5338d781b1aa5b0a0800000000000000
+      internalID: -6866395023504735435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_14
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 48
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedc4d58b0cafa050800000000000000
+      internalID: 5814054809448533483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandardBiomeTilesSet1_15
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 48
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3526fd0fe4d77f0800000000000000
+      internalID: -613247177805638680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f6eca271205b6a4f832fee47405975a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Egg: {instanceID: 0}
+  - pathObject: {instanceID: 0}
+  - exit: {instanceID: 0}
+  - spiritAttack: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

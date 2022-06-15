@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 46e896cc8243c3646966ec8d33ccb818
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trapSound: {fileID: 8300000, guid: 7b3823ca75204334893ba889ee2ed3ac, type: 3}
+  - trapStatusEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

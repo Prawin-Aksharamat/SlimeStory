@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Rogue.Title.PressAnyButton" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\TitleScript\PressAnyButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextPlayer" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAABQAAChEAAAAAAAAAAAABAAAEAgIAAIAAAABAEA=</HashCode>
+      <FileName>Assets\Scripts\StoryScript\TextPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rogue.Map.BiomeSetup" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\MapGeneration\Script\MapGeneration\biomeSetup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rogue.Map.DungeonManager" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgEAAAICAgAFAACAAAAACAEAIIqCkICABAAAAAAkEA=</HashCode>
+      <FileName>Assets\MapGeneration\Script\MapGeneration\DungeonManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rogue.Map.MapGeneration" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAABAAAACAAgAAAAIIAAAAAQAAARKEAAAAAAEAAAEA=</HashCode>
+      <FileName>Assets\MapGeneration\Script\MapGeneration\MapGeneration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rogue.Map.PassageSpaceGeneration" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\MapGeneration\Script\MapGeneration\PassageSpaceGeneration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rogue.Map.RoomSpaceGeneration" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAECAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MapGeneration\Script\MapGeneration\RoomSpaceGeneration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rogue.Map.SpacePartition" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAACAAQACgQAAAAA4AAAAAAAARAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MapGeneration\Script\MapGeneration\SpacePartition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rogue.Map.Spawner" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAABCAgAEAAAAAAAAAAAIABAAAAAAAAAAAgCE=</HashCode>
+      <FileName>Assets\MapGeneration\Script\MapGeneration\Spawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapManager" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ABAAEAAAAAACQAQAQAAAAAEQAAAAAAAAEAAAAAAASgA=</HashCode>
+      <FileName>Assets\Scripts\Interaction\MapManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurnOrder" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAgIgAQIAACAAIABAAAAQAAAAoBBAAAAAAACAEA=</HashCode>
+      <FileName>Assets\Scripts\Interaction\TurnOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQBEAAAACAHEAAAAQAQACACAhAoAgIAAAAgAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Interaction\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movement" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BFAAAAAAAowAAAAAAQACAhACAAAYAQAAABABAIgAAlA=</HashCode>
+      <FileName>Assets\Scripts\Interaction\Movement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFQBGADAALQHOAACAQQBSAACAhAoAoAAECABAEGAUEo=</HashCode>
+      <FileName>Assets\Scripts\Interaction\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Attacker" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAAAAAAAkgCAAAAAAAAAAAAIAIAAAAAAAAAAgAAEA=</HashCode>
+      <FileName>Assets\Scripts\Interaction\Attacker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trap" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAAIAAAAgAAEA=</HashCode>
+      <FileName>Assets\Scripts\Trap\Trap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StatusEffectPort" Collapsed="true">
+    <Position X="14" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAEQAAAAAEAAAAAAAAAAAAAAAIQAAAEQAAAA=</HashCode>
+      <FileName>Assets\Scripts\StatusEffect\StatusEffectPort.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StatusEffect" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACDAAAIAAIQABAAABgAAAIAAAAAAggAAAAQgAIAAIAA=</HashCode>
+      <FileName>Assets\Scripts\StatusEffect\StatusEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryExample.UI.ShowHideUI" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAGgAAAAAAAAAAAAQAAAIAAAFAAAAAAAAAEg=</HashCode>
+      <FileName>Assets\Inventory\Scripts\UI\ShowHideUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameDevTV.Inventories.Inventory" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgIAAAAACACRAAAAAAAAAAAAAAAAAgQiCAEABEQ=</HashCode>
+      <FileName>Assets\Inventory\GameDev.tv Assets\Scripts\Inventories\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameDevTV.Inventories.Equipment" Collapsed="true">
+    <Position X="14.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAEAAAAAAAAAAAAAAgAAAAAAUAAQAAAQAAEA=</HashCode>
+      <FileName>Assets\Inventory\GameDev.tv Assets\Scripts\Inventories\Equipment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="MonsterDropper" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Inventory\GameDev.tv Assets\Scripts\Inventories\MonsterDropper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameDevTV.Inventories.Pickup" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAACAgAQEAAAAQACAQAAEAAAAACAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Inventory\GameDev.tv Assets\Scripts\Inventories\Pickup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameDevTV.Inventories.ConsumableItem" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Inventory\GameDev.tv Assets\Scripts\Inventories\ConsumableItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameDevTV.Inventories.EquipableItem" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAiAAABAAAAAAAACAAAAAAAACAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Inventory\GameDev.tv Assets\Scripts\Inventories\EquipableItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rogue.Stats.BaseStats" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAACCQAAAAAAAAAAAABAAAEAAHABQCAABAEBAA=</HashCode>
+      <FileName>Assets\Scripts\Stats\BaseStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rogue.Stats.Progression" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAgAAAAABAAAAAAABAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Stats\Progression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rogue.Stats.Experience" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\Stats\Experience.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rogue.Attributes.Health" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAACgBAECgAQAAEAAAgAAAAAQAAAAAgCgAAEA=</HashCode>
+      <FileName>Assets\Scripts\Attributes\Health.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestroyableWall" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAAAAAAgAAAIAAUAAAAAAAAAAIAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\DestroyableWall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pathfinding" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAABAAAACAAAAAQAAAAAAAAAAAIAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Pathfinding.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

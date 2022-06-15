@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e91f875acdf302d4f815f76d3db37e93, type: 3}
+  m_Name: Floor5-6
+  m_EditorClassIdentifier: 
+  worldSpawnList:
+  - {fileID: 721437834747465057, guid: 502ee31dc9da30b479e7dff14bd3f6b8, type: 3}
+  specialRoomList:
+  - {fileID: 11400000, guid: b1daa2e17531a7c45a1a5316b070f8b0, type: 2}
+  player: {fileID: 7931457628257611724, guid: 0719a9815022d794ea787933b1e2124e, type: 3}
+  roomTemplates:
+  - {fileID: 11400000, guid: c8dbc0540329c8f4ab3e05c93bd02770, type: 2}
+  tilesPerProducer: 15
+  producerDensity: 1
+  primaryConsumerPerProducer: 0.7
+  primaryConsumerDensity: 1
+  secondaryConsumerPerPrimary: 0.25
+  secondaryConsumerDensity: 1
+  tilesPerResource: 50
+  resourceDensity: 1
+  tilesPerTrap: 50
+  trapDensity: 1
+  tilesPerPuzzle: 15
+  puzzleDensity: 1
+  boundaryBox: 1400000014000000ecffffffecffffff
+  capX: 12
+  capY: 12
+  biomes:
+  - {fileID: 11400000, guid: 126c788f1cc9dd047848b8dd75ca34a2, type: 2}
+  - {fileID: 11400000, guid: cd6340b407cd6ea42a94e6d12884a36f, type: 2}

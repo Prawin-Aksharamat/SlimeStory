@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5597f8ebe8e63374e912a416d26ec53d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorTile: {fileID: 29184627421513408, guid: 6a0b22cf14f13ea4daffe46d439526f1, type: 3}
+  - wallTile: {fileID: 8852753695157745736, guid: 0f2f6f46747022b4fb3cb7ce1a3625d2, type: 3}
+  - enemy: {fileID: 8290804383917274547, guid: 88b51f2a991efa4498628f24b5331aa6, type: 3}
+  - player: {fileID: 7931457628257611724, guid: 0719a9815022d794ea787933b1e2124e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

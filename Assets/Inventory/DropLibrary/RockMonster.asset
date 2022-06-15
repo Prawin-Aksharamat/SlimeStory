@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2f84d3288dfe904d84f89381a7c4760, type: 3}
+  m_Name: RockMonster
+  m_EditorClassIdentifier: 
+  dropChancePercentage:
+  - 50
+  - 65
+  - 80
+  potentialDrops:
+  - item: {fileID: 11400000, guid: 04a11b2041c5aa147a92f5bb99f0fe7e, type: 2}
+    relativeChance:
+    - 100
+    - 0
+    - 0
+  - item: {fileID: 11400000, guid: 13a0b556809eeaa469f1259747ba9551, type: 2}
+    relativeChance:
+    - 0
+    - 100
+    - 0
+  - item: {fileID: 11400000, guid: f676043566f103848986ef4f78d32280, type: 2}
+    relativeChance:
+    - 0
+    - 0
+    - 100

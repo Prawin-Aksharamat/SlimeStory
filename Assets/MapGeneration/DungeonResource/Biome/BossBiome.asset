@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdeec86b83546af4c80bb9f1db63e3e0, type: 3}
+  m_Name: BossBiome
+  m_EditorClassIdentifier: 
+  spaceTiles:
+  - {fileID: 4784778948113825397, guid: 0c0516921d9a6864d9e0201bb5aad400, type: 3}
+  - {fileID: 4407976845500092831, guid: d6601bab6c368db4596d7ac2259ed82b, type: 3}
+  - {fileID: 3836839678182334380, guid: 71b1d83f53dd20f44816b4fe239fa36e, type: 3}
+  - {fileID: 3091791522158556960, guid: 23201c4ae3181de48b877faa755c460f, type: 3}
+  - {fileID: 771523501620645697, guid: 91dd31f9ca343ec41b9a82ed6ba5bd54, type: 3}
+  wallTiles:
+  - {fileID: 4167574960789762975, guid: 25f6702e8f19528439a2b8a3fe978bde, type: 3}
+  topLeftTiles:
+  - {fileID: 8381918412855268514, guid: b96138531621f574d9da7f863f002430, type: 3}
+  topTiles:
+  - {fileID: 3155270432266167935, guid: 448d6b463599f0e48b74e24ae4108226, type: 3}
+  topRightTiles:
+  - {fileID: 3583447623058747138, guid: de2d3651d0fd99a49899803bc813eb6d, type: 3}
+  bottomLeftTiles:
+  - {fileID: 3694879533350110281, guid: b4c0eeda8e7f5b54599dd46ba445ad43, type: 3}
+  bottomTiles:
+  - {fileID: 4969253433763827701, guid: a20767d2ef3028140ae06b3947adc493, type: 3}
+  bottomRightTiles:
+  - {fileID: 2033672120819730118, guid: 8e77e455e2a2bea45a24fff0c4602cce, type: 3}
+  leftTiles:
+  - {fileID: 5534399879843846759, guid: 6212610f40300f34d9941176184e44f0, type: 3}
+  rightTiles:
+  - {fileID: 7201198614012362966, guid: 3af2823b00351974ca818333f62e8020, type: 3}
+  bottomLeftProtrudeTiles:
+  - {fileID: 7456900671639414294, guid: 8828f5a3b6a01ac488f6c436072752e0, type: 3}
+  bottomRightProtrudeTiles:
+  - {fileID: 3804264869712217374, guid: 2d0e6b0ecca7a7043bcab6faa4c0d3f5, type: 3}
+  topLeftProtrudeTiles:
+  - {fileID: 5423882496318622873, guid: 081a8abdc8a9ab3468b4b114ad8c8ec1, type: 3}
+  topRightProtrudeTiles:
+  - {fileID: 2658431593762105845, guid: a36ae120068452444a16f60b24051f2a, type: 3}
+  pebbleTiles:
+  - {fileID: 3185222554020565895, guid: 8935381d7cc927c41bace7926eda3ddd, type: 3}
+  bedrockTiles:
+  - {fileID: 4166966170021942738, guid: 73533216116b7df4399105802961d870, type: 3}
+  producers:
+  - {fileID: 6884629668775647850, guid: f8157c722232f5c468d13c341f818c9c, type: 3}
+  producersEncounterChance: 64000000
+  primaryConsumers:
+  - {fileID: 8290804383917274547, guid: 1ba015d65fab81c49b30f1bee6f590b5, type: 3}
+  primaryConsumersEncounterChance: 64000000
+  secondaryConsumers:
+  - {fileID: 8290804383917274547, guid: 159c3f8581cde9a4ba9e6bdf1e74b29b, type: 3}
+  secondaryConsumersEncounterChance: 64000000
+  puzzles:
+  - {fileID: 3588360904041546360, guid: bdf3faa646d29c541894903797ec378e, type: 3}
+  puzzlesEncounterChance: 64000000
+  resources:
+  - {fileID: 1222577395524571727, guid: c6ebfbfc4784eb1499d3fdcb0c443025, type: 3}
+  resourcesEncounterChance: 64000000
+  traps:
+  - {fileID: 5617159942895737169, guid: 0a18071db0cb3cf4eb11d566b37dbc83, type: 3}
+  trapsEncounterChance: 64000000
